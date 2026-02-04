@@ -1,4 +1,7 @@
 # abd-demo
 
 This is my first Git Repository
-Author - Bangi.Abdulla
+
+# Author
+
+Bangi.Abdulla
